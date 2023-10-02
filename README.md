@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
-- 👨‍💻 My Portfolio link [https://jamils.netlify.app/](https://jamils.netlify.app/)
+- 👨‍💻 My Portfolio link [https://jamil0.netlify.app/](https://jamil0.netlify.app/)
 
 - ⚡ Fun fact **I am funny😅**
 
